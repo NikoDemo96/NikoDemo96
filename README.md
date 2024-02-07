@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **VVVervions**
 
-- 🌱 I’m currently learning **Python and Django**
+- 🌱 I’m currently learning **JavaScript, Python and Django**
 
 - 👯 I’m looking to collaborate on **SalesForce and PoderGrafico**
 

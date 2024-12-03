@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **chnicolas.aranguiz@gmail.com**
 
-- ⚡ Fun fact **I think I have autism**
+- ⚡ Fun fact **I like pizzas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/chris_aranguiz" target="blank"><img src="https://img.shields.io/twitter/follow/chris_aranguiz?logo=twitter&style=for-the-badge" alt="chris_aranguiz" /></a> </p>
 
-- 🔭 I’m currently working on **VVVervions**
+- 🔭 I’m currently working on **No Country**
 
 - 🌱 I’m currently learning **JavaScript, Python and Django**
 

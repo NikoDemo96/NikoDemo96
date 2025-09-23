@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **No Country**
 
-- 🌱 I’m currently learning **JavaScript, Python and Django**
+- 🌱 I’m currently learning **Docker, AWS and SalesForce**
 
-- 👯 I’m looking to collaborate on **SalesForce and PoderGrafico**
+- 👯 I’m looking to collaborate on **the Enterprise sector**
 
 - 🤝 I’m looking for help with **any challenge that helps me grow as an Software Developer**
 

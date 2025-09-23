@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **chnicolas.aranguiz@gmail.com**
 
-- ⚡ Fun fact **I like pizzas**
+- ⚡ Fun fact **I bought a RTX 4070 Ti Super to end up playing AOE2**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

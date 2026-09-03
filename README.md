@@ -61,9 +61,8 @@
 </p>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=nikodemo96&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards/most-used-languages?username=nikodemo96&theme=dark" alt="Top Languages" />
 </p>
-
 
 <!--
 **NikoDemo96/NikoDemo96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

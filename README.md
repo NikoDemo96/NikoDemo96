@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Vetween App and 4Geeks**
 
-- 🌱 I’m currently learning **Docker, AWS and SalesForce**
+- 🌱 I’m currently learning **Automations, n8n, Docker and AWS**
 
 - 👯 I’m looking to collaborate on **the Enterprise sector**
 

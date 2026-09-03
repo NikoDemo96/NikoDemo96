@@ -61,7 +61,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=nikodemo96&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikodemo96&theme=dark" alt="Top Languages" />
 </p>
 
 

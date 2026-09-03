@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christian Aranguiz</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer and Automation Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/chris_aranguiz" target="blank"><img src="https://img.shields.io/twitter/follow/chris_aranguiz?logo=twitter&style=for-the-badge" alt="chris_aranguiz" /></a> </p>
 

@@ -61,7 +61,8 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=nikodemo96&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikodemo96&theme=dark" alt="Lenguajes por Repositorio" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikodemo96&theme=dark" alt="Lenguajes por Commits" />
 </p>
 
 <!--

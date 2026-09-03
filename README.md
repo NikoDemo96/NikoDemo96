@@ -60,7 +60,9 @@
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikodemo96&show_icons=true&locale=en&layout=compact" alt="nikodemo96" /></p>
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=nikodemo96&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
 
 
 

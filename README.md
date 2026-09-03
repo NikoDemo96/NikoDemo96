@@ -61,8 +61,7 @@
 </p>
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nikodemo96&show_icons=true&theme=monokai&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikodemo96&layout=compact&theme=monokai&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikodemo96&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 

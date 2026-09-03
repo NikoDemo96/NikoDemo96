@@ -61,7 +61,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards/most-used-languages?username=nikodemo96&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikodemo96&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <!--

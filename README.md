@@ -61,7 +61,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikodemo96&theme=dark" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=nikodemo96&theme=dark" alt="Top Languages" />
 </p>
 
 

@@ -61,7 +61,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikodemo96&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=nikodemo96&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 <!--
